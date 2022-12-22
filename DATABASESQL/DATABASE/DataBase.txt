@@ -1,0 +1,12 @@
+
+bb/bisou,int/test,varcher/
+bol/but,int/nn,string/
+ty/vv,int
+personne/prenom,int
+olona/l,int/p,real
+tyy/mm,int/
+joueurs/nom,String/poste,int
+bus/idbus,int/nom,string/been/idbeen,int/nom,string/
+voiture/nom,string/
+magasin/nom,string/
+entreprise/nom,string/
